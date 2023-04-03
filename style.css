@@ -10,3 +10,4 @@ body { background-size: cover; }
 
 #speed { font-size: 23px; margin:15px;}
 
+canvas{ border:5px solid black; border-radius:20px;}
